@@ -99,7 +99,7 @@ We're no lawyers, but we can suggest using https://contributoragreements.org/ fo
 
 #### Who can I contact for help?
 
-In case of problems or any further questions, please check our [general trouble shooting issue](https://github.com/cla-assistant/cla-assistant/issues/567) or [open an issue](https://github.com/cla-assistant/cla-assistant/issues/new). We always appreciate helpful tips and support for the project.
+In case of problems or any further questions, please check our [general troubleshooting issue](https://github.com/cla-assistant/cla-assistant/issues/567) or [open an issue](https://github.com/cla-assistant/cla-assistant/issues/new). We always appreciate helpful tips and support for the project.
 
 #### How can I contribute?
 
